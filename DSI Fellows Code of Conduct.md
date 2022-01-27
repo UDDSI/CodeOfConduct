@@ -12,7 +12,7 @@ All members of the group are empowered to request that an undesirable behavior i
 
 All members are expected to immediately stop any behavior inconsistent with the Code of Conduct regardless of original intent.
 
-This Code of Conduct supplements, and does not overwrite, the Codes of Conduct that you are bind to in your role at UDel. For example here is the UDel students' CoC
+This Code of Conduct supplements, and does not overwrite, the Codes of Conduct that you are bind to in your role at UDel. For example here is the [UDel students' CoC](http://www1.udel.edu/stuguide/18-19/code.html)
 
 # Group Interactions and meeting conduct:
 
